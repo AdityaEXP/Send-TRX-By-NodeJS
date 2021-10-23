@@ -1,0 +1,22 @@
+{
+  "name": "sendtrxbynodejs",
+  "version": "1.0.0",
+  "description": "Send TRX By Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaEXP/Send-TRX-By-NodeJS.git"
+  },
+  "author": "AdityaDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaEXP/Send-TRX-By-NodeJS/issues"
+  },
+  "homepage": "https://github.com/AdityaEXP/Send-TRX-By-NodeJS#readme",
+  "dependencies": {
+    "tronweb": "^4.0.0"
+  }
+}

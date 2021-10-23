@@ -5,7 +5,7 @@ const fullNode = new HttpProvider('https://api.trongrid.io');
 const solidityNode = new HttpProvider('https://api.trongrid.io');
 const eventServer = 'https://api.trongrid.io';
 
-const privateKey = '5d432e60524f656cb9dcd29c7a4fba3a3ed87389648c33463c89427508303897';
+const privateKey = '';
 const toAddress = 'TDbAngatQrpdjCfA6SBjedoLzJqGGAnhQ5';
 const amountToSend = 1;
 

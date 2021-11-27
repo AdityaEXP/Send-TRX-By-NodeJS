@@ -9,4 +9,4 @@ npm i tronweb
 ```
 <br>
 
-### **For more codes join https://t.me/TGBotsByLazy**
+### **My Channel https://t.me/TGBotsByLazy**

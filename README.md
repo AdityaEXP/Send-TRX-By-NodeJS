@@ -8,5 +8,3 @@ Just Install tronweb using npm
 npm i tronweb
 ```
 <br>
-
-### **My Channel https://t.me/TGBotsByLazy**
